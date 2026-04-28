@@ -45,3 +45,6 @@ npm run preview
 ## Notes
 
 - This is a **frontend demo** (no real payments or live backend).
+
+
+<img width="1883" height="893" alt="Screenshot 2026-04-28 111614" src="https://github.com/user-attachments/assets/da620be2-1743-40a8-8b9f-a721dabc2857" />
